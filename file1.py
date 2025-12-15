@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import random
 letters=['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm',
  'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z',
@@ -26,3 +27,6 @@ for item in password_list:
     password+=item
 print("your strong and unique password is !")
 print(password)
+=======
+
+>>>>>>> c707827de8dd8917b57619857caa8bb44b004e33
